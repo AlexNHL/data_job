@@ -1,4 +1,4 @@
-## Data Visualization on Insights of Data Science Job Salaries
+## Data Visualization on Data Science Job Salaries in Tableau
 
 * Performed data cleaning on ambiguous attributes, missing values, and irrelevant data
 * Created visualizations and calculation fields that showed the distribution, trends, and percentage changes of salaries by different attributes
